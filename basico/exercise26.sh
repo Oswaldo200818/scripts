@@ -1,4 +1,21 @@
-read -p "Ingresar un numero" num
+#Escribir un script que muestre la fecha y hora actual del sistema.
 
-echo "El num ingresado es: $num"
-echo "enviando mensaje de prueba"
+date
+
+echo "Fecha y hora del sistema: $(date)"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
